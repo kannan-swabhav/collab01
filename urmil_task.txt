@@ -1,0 +1,4 @@
+#My Task's For the Week
+1. Complete Assignments
+2. Work on Mini Project
+3. Develop ML Model
